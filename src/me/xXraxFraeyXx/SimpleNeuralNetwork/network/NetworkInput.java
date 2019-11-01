@@ -17,6 +17,7 @@ public class NetworkInput extends Neuron {
         return value;
     }
 
+    @Override
     public double calculate(List<Double> inputs) {
         return value;
     }

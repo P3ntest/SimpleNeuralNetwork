@@ -3,13 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="41d21f54-69a4-404d-90bb-296a2d1edb82" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/xXraxFraeyXx/SimpleNeuralNetwork/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/xXraxFraeyXx/SimpleNeuralNetwork/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/xXraxFraeyXx/SimpleNeuralNetwork/network/InputsLayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/xXraxFraeyXx/SimpleNeuralNetwork/network/InputsLayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/me/xXraxFraeyXx/SimpleNeuralNetwork/network/Network.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/xXraxFraeyXx/SimpleNeuralNetwork/network/Network.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/xXraxFraeyXx/SimpleNeuralNetwork/network/NetworkInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/xXraxFraeyXx/SimpleNeuralNetwork/network/NetworkInput.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -20,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1T1LAaZsQ6NBycuFnlpH2hjlts2" />
   <component name="PropertiesComponent">
@@ -48,6 +57,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
