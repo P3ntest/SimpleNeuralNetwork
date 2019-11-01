@@ -21,7 +21,21 @@ public class Network {
     }
 
     public void addInputLayer(int size) {
-        layers.add(new InputsLayer());
+        layers.add(new InputsLayer(size));
+    }
+
+    public List<Double> calculate() {
+        return runSim();
+    }
+
+    public List<Double> calculate(List<Double> networkInputs) {
+        if (networkInputs.size() != layers.get(0).getNeurons().size()) {
+
+        }
+    }
+
+    private List<Double> runSim() {
+
     }
 
 }
